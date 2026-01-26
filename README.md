@@ -8,7 +8,7 @@
 
 ## 📸 Screenshots
 *(ضع صورة واجهة البرنامج هنا)*
-![Application Screenshot](Screenshot 2026-01-09 025127.jpg)
+![Application Screenshot](path/to/your/Screenshot 2026-01-09 025127.jpg)
 
 ## 🚀 Features
 * **🛒 Cart System:** Add items, adjust quantities, and clear selections easily.
