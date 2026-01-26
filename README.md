@@ -1,18 +1,27 @@
 # 🍬 Sweet Shop POS System
-A simple and efficient Point of Sale (POS) desktop application built with **C#** and **Windows Forms** to manage sales in a sweet shop.
 
-### 🚀 Features
-* **Order Management:** Add items to cart effortlessly.
-* **Auto Calculation:** Automatically calculates totals and taxes.
-* **Receipt Generation:** Generates and prints receipts for customers.
-* **User Friendly:** Clean interface using standard Windows Forms controls.
+![C#](https://img.shields.io/badge/Language-C%23-green)
+![.NET](https://img.shields.io/badge/Framework-.NET-purple)
+![GUI](https://img.shields.io/badge/Interface-Windows%20Forms-blue)
 
-### 🛠️ Tech Stack
-* **Language:** C#
-* **Framework:** .NET (Windows Forms)
-* **IDE:** Visual Studio
+**A lightweight, efficient Point of Sale system designed for small confectionery businesses.**
 
-### 💻 How to Run
-1. Clone this repository.
-2. Open the file `sweet.sln` using Visual Studio.
-3. Press **Start** to run the application.
+## 📸 Screenshots
+*(ضع صورة واجهة البرنامج هنا)*
+![Application Screenshot](path/to/your/image.jpg)
+
+## 🚀 Features
+* **🛒 Cart System:** Add items, adjust quantities, and clear selections easily.
+* **🧾 Smart Billing:** Auto-calculation of subtotal, tax, and grand total.
+* **🖨️ Receipt Printing:** Generates printable receipts instantly.
+* **✨ Clean UI:** Intuitive design using standard Windows Forms controls.
+
+## 🛠️ Tech Stack
+* **Core:** C# .NET Framework
+* **GUI:** Windows Forms (WinForms)
+* **IDE:** Microsoft Visual Studio
+
+## 💻 How to Run
+1. Clone the repository.
+2. Open `sweet.sln` in Visual Studio.
+3. Press `F5` to build and run.
