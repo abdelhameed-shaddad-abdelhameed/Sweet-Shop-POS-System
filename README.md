@@ -7,7 +7,7 @@
 **A lightweight, efficient Point of Sale system designed for small confectionery businesses.**
 
 ## 📸 Screenshots
-*(ضع صورة واجهة البرنامج هنا)*
+
 ![Application Screenshot](Screenshot%202026-01-09%20025127.jpg)
 
 
